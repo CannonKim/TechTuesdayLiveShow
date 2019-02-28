@@ -1,6 +1,8 @@
 # TechTuesdayLiveShow
 Welcome to the TechTuesdayLiveShow Repository! You've earned a 🌮
 
+<strong>We strive to empower, connect and inform the local tech/art community using a platform that allows us to connect with our audience directly.</strong> 
+
 This document (theREADMEfile) is a hub to give you some information about the project.
 
 <b>Who are we?</b>
